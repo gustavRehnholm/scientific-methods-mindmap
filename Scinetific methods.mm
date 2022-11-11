@@ -4,7 +4,7 @@
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="ALL"/>
 <font BOLD="true"/>
 <hook NAME="MapStyle" background="#eeeeee">
-    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" fit_to_viewport="false" associatedTemplateLocation="template:/light_grey_straight_template.mm"/>
+    <properties show_icon_for_attributes="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff" show_note_icons="true" associatedTemplateLocation="template:/light_grey_straight_template.mm" fit_to_viewport="false"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24 pt">
@@ -75,15 +75,16 @@
 </hook>
 <node TEXT="Preliminary Considerations" POSITION="right" ID="ID_1945739098" CREATED="1668098509687" MODIFIED="1668098559460">
 <node TEXT="Chp1 The selection of a research approach" ID="ID_1737379391" CREATED="1668098570802" MODIFIED="1668098591982">
-<node TEXT="Research components" ID="ID_295452915" CREATED="1668098775395" MODIFIED="1668098779687">
 <node TEXT="" ID="ID_526365986" CREATED="1668099481555" MODIFIED="1668099716289">
 <hook URI="fig/fig-chp1/triangel.png" SIZE="0.375" NAME="ExternalObject"/>
 <node TEXT="Designs" ID="ID_646285704" CREATED="1668098784771" MODIFIED="1668098787429">
 <node TEXT="Quantitative" ID="ID_1185162834" CREATED="1668100168355" MODIFIED="1668100177584">
 <node TEXT="Compare, correlate" ID="ID_730097479" CREATED="1668100184896" MODIFIED="1668100194487"/>
+<node TEXT="Survey research" ID="ID_1813891850" CREATED="1668100889807" MODIFIED="1668100912320"/>
 </node>
 <node TEXT="Qualitative" ID="ID_835304998" CREATED="1668100178886" MODIFIED="1668100181812">
 <node TEXT="create a narrative with data" ID="ID_1382167908" CREATED="1668100196165" MODIFIED="1668100210551"/>
+<node TEXT="The researchers background, ideas and experience has a larger role" ID="ID_1446215724" CREATED="1668100913531" MODIFIED="1668100938349"/>
 </node>
 <node TEXT="MIxed" ID="ID_1554841172" CREATED="1668100182027" MODIFIED="1668100183429"/>
 </node>
@@ -96,9 +97,10 @@
 <hook URI="fig/fig-chp1/worldviews.png" SIZE="0.375" NAME="ExternalObject"/>
 <node TEXT="Postpositivsm" ID="ID_1590635597" CREATED="1668099826984" MODIFIED="1668099852492">
 <node TEXT="conslusions from empirical observations" ID="ID_1725106614" CREATED="1668099853099" MODIFIED="1668099877076"/>
+<node TEXT="Aka the scientific method" ID="ID_1749343235" CREATED="1668100948196" MODIFIED="1668100957752"/>
 </node>
 <node TEXT="Constructivism" ID="ID_1131231685" CREATED="1668099902394" MODIFIED="1668099907109">
-<node TEXT="Construct a conclusion from less hard data" ID="ID_1853691871" CREATED="1668099907709" MODIFIED="1668099930677"/>
+<node TEXT="Construct a conclusion from the participants view of the situation" ID="ID_1853691871" CREATED="1668099907709" MODIFIED="1668100981284"/>
 </node>
 <node TEXT="Transformative" ID="ID_1615931662" CREATED="1668099939540" MODIFIED="1668099945581">
 <node TEXT="Transform the socieity at large" ID="ID_725115799" CREATED="1668099946301" MODIFIED="1668099962173"/>
@@ -110,7 +112,7 @@
 </node>
 <node TEXT="Approach" ID="ID_1639809419" CREATED="1668098781072" MODIFIED="1668098784439">
 <node TEXT="Qualitative" ID="ID_274851674" CREATED="1668098799361" MODIFIED="1668098803222">
-<node TEXT="Harder to measure" ID="ID_396595722" CREATED="1668099892809" MODIFIED="1668099897691"/>
+<node TEXT="words rather than numbers" ID="ID_396595722" CREATED="1668099892809" MODIFIED="1668107968386"/>
 <node TEXT="scenario 1" ID="ID_394748873" CREATED="1668100358963" MODIFIED="1668100364358">
 <node TEXT="Constructivism" ID="ID_790907102" CREATED="1668100368976" MODIFIED="1668100381171"/>
 <node TEXT="Ethnographic" ID="ID_538600011" CREATED="1668100412284" MODIFIED="1668100417262"/>
@@ -134,8 +136,6 @@
 <node TEXT=" quantitative data -&gt; qualitative data" ID="ID_1169078582" CREATED="1668098842937" MODIFIED="1668098877924">
 <node TEXT="ex: gathering" ID="ID_932389921" CREATED="1668098878586" MODIFIED="1668099480568"/>
 </node>
-</node>
-<node TEXT="Sce" ID="ID_1799258274" CREATED="1668100350485" MODIFIED="1668100358105"/>
 </node>
 </node>
 </node>
