@@ -79,14 +79,39 @@
 <hook URI="fig/fig-chp1/triangel.png" SIZE="0.375" NAME="ExternalObject"/>
 <node TEXT="Designs" ID="ID_646285704" CREATED="1668098784771" MODIFIED="1668098787429">
 <node TEXT="Quantitative" ID="ID_1185162834" CREATED="1668100168355" MODIFIED="1668100177584">
-<node TEXT="Compare, correlate" ID="ID_730097479" CREATED="1668100184896" MODIFIED="1668100194487"/>
+<node TEXT="Experimental reseearch" ID="ID_730097479" CREATED="1668100184896" MODIFIED="1668686910635"/>
 <node TEXT="Survey research" ID="ID_1813891850" CREATED="1668100889807" MODIFIED="1668100912320"/>
 </node>
 <node TEXT="Qualitative" ID="ID_835304998" CREATED="1668100178886" MODIFIED="1668100181812">
-<node TEXT="create a narrative with data" ID="ID_1382167908" CREATED="1668100196165" MODIFIED="1668100210551"/>
-<node TEXT="The researchers background, ideas and experience has a larger role" ID="ID_1446215724" CREATED="1668100913531" MODIFIED="1668100938349"/>
+<node TEXT="Narrative research" ID="ID_1382167908" CREATED="1668100196165" MODIFIED="1668686981250">
+<node TEXT="combines narratives from participants, to generate a combined narrative" ID="ID_318334150" CREATED="1668687029491" MODIFIED="1668687062335"/>
 </node>
-<node TEXT="MIxed" ID="ID_1554841172" CREATED="1668100182027" MODIFIED="1668100183429"/>
+<node TEXT="Phenomenological research" ID="ID_1446215724" CREATED="1668100913531" MODIFIED="1668686995600">
+<node TEXT="Describe a phenonem, as a womens experience in maternial wards" ID="ID_774916509" CREATED="1668687218195" MODIFIED="1668687993697"/>
+</node>
+<node TEXT="Grounded Theory" ID="ID_1048209780" CREATED="1668686995774" MODIFIED="1668687011193">
+<node TEXT="Theory from the view of the participants" ID="ID_1701640351" CREATED="1668687367877" MODIFIED="1668688002087"/>
+</node>
+<node TEXT="Ethnography" ID="ID_1242068020" CREATED="1668687011430" MODIFIED="1668687020259">
+<node TEXT="Find common patterns between groups" ID="ID_556151788" CREATED="1668687431620" MODIFIED="1668687446150"/>
+</node>
+<node TEXT="Case studies" ID="ID_214248146" CREATED="1668687020408" MODIFIED="1668687026907">
+<node TEXT="Case is restricted in time and place" ID="ID_625256483" CREATED="1668687447457" MODIFIED="1668688149683"/>
+</node>
+</node>
+<node TEXT="MIxed" ID="ID_1554841172" CREATED="1668100182027" MODIFIED="1668100183429">
+<node TEXT="Convergent mixed methods" ID="ID_547914653" CREATED="1668688151889" MODIFIED="1668688873434">
+<node TEXT="Collect both quantitative and qualitative data at the same time, and then merge them." ID="ID_865737131" CREATED="1668688913449" MODIFIED="1668688961864"/>
+</node>
+<node TEXT="Explamatory sequential mixed methods" ID="ID_65912891" CREATED="1668688873692" MODIFIED="1668688892282">
+<node TEXT="first collect quantitative" ID="ID_1644515585" CREATED="1668688963488" MODIFIED="1668688994409"/>
+<node TEXT="Then analze it with qualitative data" ID="ID_1284023166" CREATED="1668688976203" MODIFIED="1668689008035"/>
+</node>
+<node TEXT="exploratory sequntial mixed methods" ID="ID_1365583925" CREATED="1668688892524" MODIFIED="1668688911796">
+<node TEXT="Fist qualitative data" ID="ID_990142212" CREATED="1668689039052" MODIFIED="1668689046521"/>
+<node TEXT="Then quantiative data to ground the result." ID="ID_306926001" CREATED="1668689046789" MODIFIED="1668689136396"/>
+</node>
+</node>
 </node>
 <node TEXT="Methods" ID="ID_962551667" CREATED="1668098787618" MODIFIED="1668098789033">
 <node TEXT="data collection" ID="ID_453194153" CREATED="1668100242676" MODIFIED="1668100250837"/>
@@ -104,6 +129,7 @@
 <node TEXT="Constructivism" ID="ID_1131231685" CREATED="1668099902394" MODIFIED="1668099907109">
 <node TEXT="Construct a conclusion from the participants view of the situation" ID="ID_1853691871" CREATED="1668099907709" MODIFIED="1668100981284"/>
 <node TEXT="Typically qualitative" ID="ID_1226971960" CREATED="1668677796305" MODIFIED="1668677801339"/>
+<node TEXT="Generate a theory, rather than use a theory as in postpositivism." ID="ID_361745642" CREATED="1668686267775" MODIFIED="1668686597111"/>
 </node>
 <node TEXT="Transformative" ID="ID_1615931662" CREATED="1668099939540" MODIFIED="1668099945581">
 <node TEXT="Transform the socieity at large" ID="ID_725115799" CREATED="1668099946301" MODIFIED="1668099962173"/>
@@ -124,16 +150,13 @@
 <node TEXT="observation of behavior" ID="ID_814139596" CREATED="1668100381385" MODIFIED="1668100410334"/>
 </node>
 <node TEXT="scenario 2" ID="ID_291597607" CREATED="1668100365003" MODIFIED="1668100367397">
-<node TEXT="Transformative worldview" ID="ID_1298851786" CREATED="1668100420789" MODIFIED="1668100430800"/>
-<node TEXT="Narrative design" ID="ID_1028623276" CREATED="1668100431007" MODIFIED="1668100434974"/>
-<node TEXT="open-eneded interviewing" ID="ID_542874983" CREATED="1668100435129" MODIFIED="1668100441896"/>
+<node TEXT="Transformative wolrdview, narrative design and open-ended interviewing" ID="ID_381504175" CREATED="1668678860063" MODIFIED="1668678904733"/>
 </node>
 </node>
 <node TEXT="Quantitavive" ID="ID_916132160" CREATED="1668098803379" MODIFIED="1668098808701">
 <node TEXT="Comparable data (numbers)" ID="ID_661844233" CREATED="1668099880483" MODIFIED="1668099889533"/>
 <node TEXT="Scenario" ID="ID_710471471" CREATED="1668100446013" MODIFIED="1668100451323">
-<node TEXT="pragmatic worldview" ID="ID_638148213" CREATED="1668100452245" MODIFIED="1668100457635"/>
-<node TEXT="collect both quantitative and qualitative data" ID="ID_1219035516" CREATED="1668100459420" MODIFIED="1668100474175"/>
+<node TEXT="Postpositivism wolrdview, experimental design, ethnographical design and obesrvation of behaviour" ID="ID_1059453015" CREATED="1668678788954" MODIFIED="1668678836285"/>
 </node>
 </node>
 <node TEXT="Mixed Methods" ID="ID_1718224676" CREATED="1668098810523" MODIFIED="1668098813291">
@@ -141,6 +164,7 @@
 <node TEXT=" quantitative data -&gt; qualitative data" ID="ID_1169078582" CREATED="1668098842937" MODIFIED="1668098877924">
 <node TEXT="ex: gathering" ID="ID_932389921" CREATED="1668098878586" MODIFIED="1668099480568"/>
 </node>
+<node TEXT="Scenario: pragmatic worldview, collection of quantitative and qualitative data, sequentially." ID="ID_1029647505" CREATED="1668678915001" MODIFIED="1668678945759"/>
 </node>
 </node>
 </node>
