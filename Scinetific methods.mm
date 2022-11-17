@@ -74,7 +74,7 @@
 </map_styles>
 </hook>
 <node TEXT="Preliminary Considerations" POSITION="right" ID="ID_1945739098" CREATED="1668098509687" MODIFIED="1668098559460">
-<node TEXT="Chp1 The selection of a research approach" FOLDED="true" ID="ID_1737379391" CREATED="1668098570802" MODIFIED="1668098591982">
+<node TEXT="Chp1 The selection of a research approach" ID="ID_1737379391" CREATED="1668098570802" MODIFIED="1668098591982">
 <node TEXT="" ID="ID_526365986" CREATED="1668099481555" MODIFIED="1668099716289">
 <hook URI="fig/fig-chp1/triangel.png" SIZE="0.375" NAME="ExternalObject"/>
 <node TEXT="Designs" ID="ID_646285704" CREATED="1668098784771" MODIFIED="1668098787429">
@@ -96,14 +96,19 @@
 <node TEXT="Philosophical Worldviews" ID="ID_1482812226" CREATED="1668098789689" MODIFIED="1668100122952">
 <hook URI="fig/fig-chp1/worldviews.png" SIZE="0.375" NAME="ExternalObject"/>
 <node TEXT="Postpositivsm" ID="ID_1590635597" CREATED="1668099826984" MODIFIED="1668099852492">
-<node TEXT="conslusions from empirical observations" ID="ID_1725106614" CREATED="1668099853099" MODIFIED="1668099877076"/>
+<node TEXT="Cause and effect: conslusions from empirical observations" ID="ID_1725106614" CREATED="1668099853099" MODIFIED="1668677591625"/>
+<node TEXT="Can not find absolut truths" ID="ID_255773246" CREATED="1668677656998" MODIFIED="1668677748635"/>
 <node TEXT="Aka the scientific method" ID="ID_1749343235" CREATED="1668100948196" MODIFIED="1668100957752"/>
+<node TEXT="Typically quantitative" ID="ID_1677573399" CREATED="1668677788730" MODIFIED="1668677794717"/>
 </node>
 <node TEXT="Constructivism" ID="ID_1131231685" CREATED="1668099902394" MODIFIED="1668099907109">
 <node TEXT="Construct a conclusion from the participants view of the situation" ID="ID_1853691871" CREATED="1668099907709" MODIFIED="1668100981284"/>
+<node TEXT="Typically qualitative" ID="ID_1226971960" CREATED="1668677796305" MODIFIED="1668677801339"/>
 </node>
 <node TEXT="Transformative" ID="ID_1615931662" CREATED="1668099939540" MODIFIED="1668099945581">
 <node TEXT="Transform the socieity at large" ID="ID_725115799" CREATED="1668099946301" MODIFIED="1668099962173"/>
+<node TEXT="Answer to critisicm of postpostovosm, that it does not handle issues of power and social justice" ID="ID_963877985" CREATED="1668678106910" MODIFIED="1668678147068"/>
+<node TEXT="Research focus on inequetis between different groups" ID="ID_1122910760" CREATED="1668678147485" MODIFIED="1668678186852"/>
 </node>
 <node TEXT="Pragmatism" ID="ID_1244442021" CREATED="1668099962455" MODIFIED="1668099966132">
 <node TEXT="Pragrmatic looking at solutions" ID="ID_1874481114" CREATED="1668099967763" MODIFIED="1668099976455"/>
